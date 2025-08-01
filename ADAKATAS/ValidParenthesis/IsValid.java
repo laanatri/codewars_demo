@@ -1,5 +1,3 @@
-import java.util.*;
-
 public class IsValid {
 
     public static boolean CheckIfAllTrue(Boolean[] arr) {
